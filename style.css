@@ -23,3 +23,59 @@ h1{
      color: white;
      padding: 7px;
 }
+.wman-jacket{
+     font-family: 'Bebas Neue', cursive;
+     color: #363958;
+     
+}
+.card-group{
+     width: 350px;
+    border: 1px solid gray;
+}
+.photo{
+     background-color: lightgray;
+     width: 300px;
+     border-radius: 30px;
+}
+
+
+.photo img{
+     width: 100%;
+     padding: 10px 30px;
+     /* margin: 5px 15px; */
+}
+.card-title{
+     font-size: 30px;
+     font-weight: 700;
+}
+.price{
+     font-size: 50px;
+
+}
+.card{
+     width: 400px;
+     border: none;
+     border-radius: 20px;
+     box-shadow: 3px 3px 3px 3px lightgrey;
+}
+.card img{
+    width: 100%;
+    
+}
+.card-image{
+     /* width: 290px; */
+     position: relative;
+     /* padding-left:30px ; */
+     padding:15px 40px;
+     margin: 15px 15px;
+     background-color: lightpink;
+     border-radius: 20px;
+}
+.card-details{
+     padding: 15px;
+}
+.house img{
+     width: 80px;
+}
+
+     
